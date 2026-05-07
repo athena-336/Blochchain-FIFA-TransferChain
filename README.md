@@ -49,15 +49,6 @@ simultaneously:
 - **SAM:** ~$10.5B (~80% involve installments or sell-on clauses)
 - **SOM:** ~$131M (Year 1 target at 1% protocol adoption)
 
-## Team
-
-| Name | Role |
-|---|---|
-| Yun-Chien Huang | Market Analysis & Go-to-Market Strategy |
-| Yan Lu | Smart Contract Engineering (Solidity, Sepolia deployment) |
-| Yiheng Jiang | Frontend integration, Demo production |
-| Maximilian Kunz | Business Strategy & Deck Design |
-
 ## Course
 
 Columbia University · APANPS5470 Crypto, Blockchain, and Analytics · Spring 2026
